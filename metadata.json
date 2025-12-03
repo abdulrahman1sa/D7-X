@@ -1,0 +1,5 @@
+{
+  "name": "Saudi Invoicer AI",
+  "description": "A professional ZATCA-compliant tax invoice generator with AI-powered OCR capabilities.",
+  "requestFramePermissions": []
+}
